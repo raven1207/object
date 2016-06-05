@@ -1,0 +1,30 @@
+ $(function(){
+      var p1=new Tab();
+      p1.init('div1');
+      var p2=new Tab();
+      p2.init('div2');
+  })
+function Tab(){
+    this.wrapper=null;
+    this.aInput=null;
+    this.aDiv=null;
+
+}
+ var fn=Tab.prototype;
+    fn.init=function($wrapper){
+        this.wrapper=$('.'+$wrapper);
+        this.aInput=this.wrapper.find('input');
+        this.aDiv=this.wrapper.find('.d1');
+        this.change();
+       }
+    fn.change=function(){
+        var me=this;
+        var $wrapper=me.wrapper;
+        var aInput=me.aInput;
+        var aDiv=me.aDiv;
+        aInput.on('click',function(){
+            var index=$(this).index();
+              aInput.removeClass('active').eq(index).addClass('active');
+             aDiv.hide().eq(index).show();
+        })
+    }
