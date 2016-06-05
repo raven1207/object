@@ -1,3 +1,4 @@
+第一种：
  $(function(){
       var p1=new Tab();
       p1.init('div1');
@@ -28,4 +29,32 @@ function Tab(){
              aDiv.hide().eq(index).show();
         })
     }
+第二种:
+var Tab={
+        $wrapper: null,
+        content:{
+            div:'.d1',
+            input:'input'
+        },
+        init:function($wrapper){
+            this.$wrapper= $wrapper;
+            var content=this.content;
+            content.class = $wrapper;
+            content.div = $wrapper.find(content.div);
+            content.input = $wrapper.find(content.input);
+            this.bindEvent();
+            return this;
+         },
+        bindEvent:function(){
+            var me=this;
+            var wrap= me.content.class;
+            var box=me.content.div;
+            var btn=me.content.input;
+             btn.on('click',function(){
+               var index=$(this).index();
+                btn.removeClass('active').eq(index).addClass('active');
 
+                box.hide().eq(index).show();
+            })
+        }
+       }
