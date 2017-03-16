@@ -1,1 +1,77 @@
 index
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .box{
+            width: 100px;
+            height: 100px;
+            border:1px solid blue;
+            display: none;
+        }
+        .active{
+            color:red;
+        }
+    </style>
+</head>
+<body>
+<div id="tab1">
+    <input type="button" value="1">
+    <input type="button" value="2">
+    <input type="button" value="3">
+    <div class="box" style="display: block">111</div>
+    <div class="box">222</div>
+    <div class="box">333</div>
+</div>
+<div id="tab2">
+    <input type="button" value="1">
+    <input type="button" value="2">
+    <input type="button" value="3">
+    <div class="box" style="display: block">111</div>
+    <div class="box">222</div>
+    <div class="box">333</div>
+</div>
+</body>
+<script src="src/libs/zepto.js"></script>
+<script>
+function Tab() {
+    this.$wrapper=null;
+    this.button=null;
+    this.box=null;
+}
+Tab.prototype.init=function ($wrapper) {
+    this.$wrapper=$($wrapper);
+    this.button=this.$wrapper.find('input');
+    this.box=this.$wrapper.find('.box');
+    this.bindEvent();
+}
+Tab.prototype.bindEvent=function () {
+  var self=this;
+    var btn=self.button;
+    var box=self.box;
+    btn.on('click',function () {
+        var index=$(this).index();
+       btn.removeClass('active').eq(index).addClass('active');
+        box.hide().eq(index).show();
+    })
+}
+//
+//var me={
+//name:'小戏',
+//    age:'18'
+//}
+//var p1=new Tab(me);
+//p1.say();
+//    p1.kiss();
+//    p1.eat();
+//Tab.speak();
+//Tab.prototype.say();
+    var p1 = new Tab();
+    p1.init('#tab1');
+    var p2= new Tab();
+    p2.init('#tab2');
+
+</script>
+</html>
