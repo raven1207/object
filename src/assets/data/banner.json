@@ -1,0 +1,993 @@
+{
+  "elapsedTime": 1401,
+  "errorCode": 0,
+  "errorDesc": "",
+  "body": {
+    "total": 411,
+    "similarKeywords": [],
+    "recKeyword": "",
+    "totalPageCount": 42.0,
+    "sortParamList": [
+      {
+        "isSortOrder": 0,
+        "form": 1,
+        "sortType": 1,
+        "children": [
+          {
+            "isSortOrder": 0,
+            "sortType": 1,
+            "sortName": "综合",
+            "DefaultOrder": 1
+          },
+          {
+            "isSortOrder": 0,
+            "sortType": 3,
+            "sortName": "新品",
+            "DefaultOrder": 1
+          },
+          {
+            "isSortOrder": 0,
+            "sortType": 5,
+            "sortName": "评论",
+            "DefaultOrder": 1
+          }
+        ],
+        "sortName": "综合",
+        "DefaultOrder": 1
+      },
+      {
+        "isSortOrder": 1,
+        "form": 1,
+        "sortType": 4,
+        "sortName": "销量",
+        "DefaultOrder": 1
+      },
+      {
+        "isSortOrder": 1,
+        "form": 1,
+        "sortType": 2,
+        "sortName": "价格",
+        "DefaultOrder": 1
+      },
+      {
+        "isSortOrder": 0,
+        "form": 2,
+        "sortType": -1,
+        "sortName": "促销",
+        "DefaultOrder": 1
+      }
+    ],
+    "MerchandiseList": [
+      {
+        "saleqty": 26,
+        "is_fresh_prod": 0,
+        "it_mprice": "0",
+        "is_mall": 0,
+        "sm_item_type": "1",
+        "sm_name": "20150421002",
+        "sm_pic": "http://img.beta1.fn/C/item/2015/0421/201504C210000023/_454801045_400x400_q75.png",
+        "saleType": 0,
+        "is_global": 0,
+        "type_tags": [
+          {
+            "rlink": "http://member-fnapp.feiniugo.com/images/goods/icon_selfsupport2_2x.png",
+            "form": 2,
+            "name": "自营"
+          }
+        ],
+        "pic_tags": [],
+        "is_orgi_item": 1,
+        "shop_info": {},
+        "tags": [
+          {
+            "bordercolor": "#e60012",
+            "form": 3,
+            "color": "#e60012",
+            "name": "满减",
+            "bgcolor": "#ffffff"
+          },
+          {
+            "bordercolor": "#e60012",
+            "form": 3,
+            "color": "#e60012",
+            "name": "折扣",
+            "bgcolor": "#ffffff"
+          },
+          {
+            "bordercolor": "#e60012",
+            "form": 3,
+            "color": "#e60012",
+            "name": "满赠",
+            "bgcolor": "#ffffff"
+          },
+          {
+            "bordercolor": "#e60012",
+            "form": 3,
+            "color": "#e60012",
+            "name": "优惠",
+            "bgcolor": "#ffffff"
+          },
+          {
+            "bordercolor": "#e60012",
+            "form": 3,
+            "color": "#e60012",
+            "name": "换购",
+            "bgcolor": "#ffffff"
+          }
+        ],
+        "global_tag": [],
+        "isReservation": 0,
+        "isPreOrd": 0,
+        "isShowSpecialMain": "0",
+        "sm_price": "2499",
+        "overseas": {},
+        "small_tags": [],
+        "isStoreMarketing": "0",
+        "distribution_tips": {
+          "name": "仅配送部分街道",
+          "code": 2
+        },
+        "off": false,
+        "isLimited": 0,
+        "isSensitive": 0,
+        "preSale": 0,
+        "sm_seq": "201504CM210000025",
+        "saleTypeName": "加入购物车",
+        "is_pop": "0"
+      },
+      {
+        "saleqty": 39,
+        "is_fresh_prod": 0,
+        "it_mprice": "0",
+        "is_mall": 0,
+        "sm_item_type": "3",
+        "sm_name": "123213",
+        "sm_pic": "http://img.beta1.fn/C/item/2015/0331/201503C310000030/_196701458_400x400_q75.png",
+        "saleType": 0,
+        "is_global": 0,
+        "type_tags": [
+          {
+            "rlink": "http://member-fnapp.feiniugo.com/images/goods/icon_selfsupport2_2x.png",
+            "form": 2,
+            "name": "自营"
+          }
+        ],
+        "pic_tags": [],
+        "is_orgi_item": 0,
+        "shop_info": {},
+        "tags": [],
+        "global_tag": [],
+        "isReservation": 0,
+        "isPreOrd": 0,
+        "isShowSpecialMain": "0",
+        "sm_price": "5",
+        "overseas": {},
+        "small_tags": [],
+        "isStoreMarketing": "0",
+        "distribution_tips": {
+          "name": "仅配送部分街道",
+          "code": 2
+        },
+        "off": false,
+        "isLimited": 0,
+        "isSensitive": 0,
+        "preSale": 0,
+        "sm_seq": "201503CM310000032",
+        "saleTypeName": "加入购物车",
+        "is_pop": "1"
+      },
+      {
+        "saleqty": 78,
+        "is_fresh_prod": 0,
+        "it_mprice": "0",
+        "is_mall": 0,
+        "sm_item_type": "1",
+        "sm_name": "20150331021",
+        "sm_pic": "http://img.beta1.fn/C/item/2015/0331/201503C310000030/_196701458_400x400_q75.png",
+        "saleType": 0,
+        "is_global": 0,
+        "type_tags": [
+          {
+            "rlink": "http://member-fnapp.feiniugo.com/images/goods/icon_selfsupport2_2x.png",
+            "form": 2,
+            "name": "自营"
+          }
+        ],
+        "pic_tags": [],
+        "is_orgi_item": 1,
+        "shop_info": {},
+        "tags": [],
+        "global_tag": [],
+        "isReservation": 0,
+        "isPreOrd": 0,
+        "isShowSpecialMain": "0",
+        "sm_price": "1599",
+        "overseas": {},
+        "small_tags": [],
+        "isStoreMarketing": "0",
+        "distribution_tips": {
+          "name": "仅配送部分街道",
+          "code": 2
+        },
+        "off": false,
+        "isLimited": 0,
+        "isSensitive": 0,
+        "preSale": 0,
+        "sm_seq": "201503CM310000030",
+        "saleTypeName": "加入购物车",
+        "is_pop": "0"
+      },
+      {
+        "saleqty": 98,
+        "is_fresh_prod": 0,
+        "it_mprice": "0",
+        "is_mall": 0,
+        "sm_item_type": "1",
+        "sm_name": "20150331019",
+        "sm_pic": "http://img.beta1.fn/C/item/2015/0331/201503C310000027/_219768843_400x400_q75.png",
+        "saleType": 0,
+        "is_global": 0,
+        "type_tags": [
+          {
+            "rlink": "http://member-fnapp.feiniugo.com/images/goods/icon_selfsupport2_2x.png",
+            "form": 2,
+            "name": "自营"
+          }
+        ],
+        "pic_tags": [],
+        "is_orgi_item": 1,
+        "shop_info": {},
+        "tags": [],
+        "global_tag": [],
+        "isReservation": 0,
+        "isPreOrd": 0,
+        "isShowSpecialMain": "0",
+        "sm_price": "2499",
+        "overseas": {},
+        "small_tags": [],
+        "isStoreMarketing": "0",
+        "distribution_tips": {
+          "name": "仅配送部分街道",
+          "code": 2
+        },
+        "off": false,
+        "isLimited": 0,
+        "isSensitive": 0,
+        "preSale": 0,
+        "sm_seq": "201503CM310000026",
+        "saleTypeName": "加入购物车",
+        "is_pop": "0"
+      },
+      {
+        "saleqty": 891,
+        "is_fresh_prod": 0,
+        "it_mprice": "0",
+        "is_mall": 0,
+        "sm_item_type": "1",
+        "sm_name": "20150430005",
+        "sm_pic": "http://img.beta1.fn/C/item/2015/0430/201504C300000063/_403813548_400x400_q75.png",
+        "saleType": 0,
+        "is_global": 0,
+        "type_tags": [
+          {
+            "rlink": "http://member-fnapp.feiniugo.com/images/goods/icon_directbusiness2_2x.png",
+            "form": 2,
+            "name": "商家直送"
+          }
+        ],
+        "pic_tags": [],
+        "is_orgi_item": 1,
+        "shop_info": {},
+        "tags": [],
+        "global_tag": [],
+        "isReservation": 0,
+        "isPreOrd": 0,
+        "isShowSpecialMain": "0",
+        "sm_price": "6500",
+        "overseas": {},
+        "small_tags": [],
+        "isStoreMarketing": "0",
+        "distribution_tips": {
+          "name": "",
+          "code": 1
+        },
+        "off": false,
+        "isLimited": 0,
+        "isSensitive": 0,
+        "preSale": 0,
+        "sm_seq": "201504CM300000174",
+        "saleTypeName": "加入购物车",
+        "is_pop": "0"
+      },
+      {
+        "saleqty": 2969,
+        "is_fresh_prod": 0,
+        "it_mprice": "0",
+        "is_mall": 0,
+        "sm_item_type": "3",
+        "sm_name": "YYY企业组合beta001",
+        "sm_pic": "http://img.beta1.fn/C/item/2015/0331/201503C310000042/201503C310000003_085110768_400x400_q75.jpg",
+        "saleType": 0,
+        "is_global": 0,
+        "type_tags": [
+          {
+            "rlink": "http://member-fnapp.feiniugo.com/images/goods/icon_directbusiness2_2x.png",
+            "form": 2,
+            "name": "商家直送"
+          }
+        ],
+        "pic_tags": [],
+        "is_orgi_item": 0,
+        "shop_info": {},
+        "tags": [],
+        "global_tag": [],
+        "isReservation": 0,
+        "isPreOrd": 0,
+        "isShowSpecialMain": "0",
+        "sm_price": "300",
+        "overseas": {},
+        "small_tags": [],
+        "isStoreMarketing": "0",
+        "distribution_tips": {
+          "name": "",
+          "code": 1
+        },
+        "off": false,
+        "isLimited": 0,
+        "isSensitive": 0,
+        "preSale": 0,
+        "sm_seq": "201503CM310000048",
+        "saleTypeName": "加入购物车",
+        "is_pop": "1"
+      },
+      {
+        "saleqty": 997,
+        "is_fresh_prod": 0,
+        "it_mprice": "0",
+        "is_mall": 0,
+        "sm_item_type": "2",
+        "sm_name": "yyy_sfdasdfvcbc",
+        "sm_pic": "http://img.beta1.fn/C/item/2015/0331/201503C310000042/201503C310000003_085110768_400x400_q75.jpg",
+        "saleType": 0,
+        "is_global": 0,
+        "type_tags": [
+          {
+            "rlink": "http://member-fnapp.feiniugo.com/images/goods/icon_directbusiness2_2x.png",
+            "form": 2,
+            "name": "商家直送"
+          }
+        ],
+        "pic_tags": [],
+        "is_orgi_item": 1,
+        "shop_info": {},
+        "tags": [
+          {
+            "bordercolor": "#e60012",
+            "form": 3,
+            "color": "#e60012",
+            "name": "满减",
+            "bgcolor": "#ffffff"
+          }
+        ],
+        "global_tag": [],
+        "isReservation": 0,
+        "isPreOrd": 0,
+        "isShowSpecialMain": "0",
+        "sm_price": "0.1",
+        "overseas": {},
+        "small_tags": [],
+        "isStoreMarketing": "0",
+        "distribution_tips": {
+          "name": "",
+          "code": 1
+        },
+        "off": false,
+        "isLimited": 0,
+        "isSensitive": 0,
+        "preSale": 0,
+        "sm_seq": "201503CM310000045",
+        "saleTypeName": "加入购物车",
+        "is_pop": "1"
+      },
+      {
+        "saleqty": 99,
+        "is_fresh_prod": 0,
+        "it_mprice": "0",
+        "is_mall": 0,
+        "sm_item_type": "1",
+        "sm_name": "20150331018",
+        "sm_pic": "http://img.beta1.fn/C/item/2015/0331/201503C310000026/_199802408_400x400_q75.png",
+        "saleType": 0,
+        "is_global": 0,
+        "type_tags": [
+          {
+            "rlink": "http://member-fnapp.feiniugo.com/images/goods/icon_selfsupport2_2x.png",
+            "form": 2,
+            "name": "自营"
+          }
+        ],
+        "pic_tags": [],
+        "is_orgi_item": 1,
+        "shop_info": {},
+        "tags": [],
+        "global_tag": [],
+        "isReservation": 0,
+        "isPreOrd": 0,
+        "isShowSpecialMain": "0",
+        "sm_price": "2200",
+        "overseas": {},
+        "small_tags": [],
+        "isStoreMarketing": "0",
+        "distribution_tips": {
+          "name": "仅配送部分街道",
+          "code": 2
+        },
+        "off": false,
+        "isLimited": 0,
+        "isSensitive": 0,
+        "preSale": 0,
+        "sm_seq": "201503CM310000025",
+        "saleTypeName": "加入购物车",
+        "is_pop": "0"
+      },
+      {
+        "saleqty": 997,
+        "is_fresh_prod": 0,
+        "it_mprice": "0",
+        "is_mall": 0,
+        "sm_item_type": "1",
+        "sm_name": "新增转单商品002",
+        "sm_pic": "http://img.beta1.fn/C/item/2015/0305/201503C050000013/_588886475_400x400_q75.jpg",
+        "saleType": 0,
+        "is_global": 0,
+        "type_tags": [
+          {
+            "rlink": "http://member-fnapp.feiniugo.com/images/goods/icon_directbusiness2_2x.png",
+            "form": 2,
+            "name": "商家直送"
+          }
+        ],
+        "pic_tags": [],
+        "is_orgi_item": 1,
+        "shop_info": {},
+        "tags": [
+          {
+            "bordercolor": "#e60012",
+            "form": 3,
+            "color": "#e60012",
+            "name": "满赠",
+            "bgcolor": "#ffffff"
+          }
+        ],
+        "global_tag": [],
+        "isReservation": 0,
+        "isPreOrd": 0,
+        "isShowSpecialMain": "0",
+        "sm_price": "1800",
+        "overseas": {},
+        "small_tags": [],
+        "isStoreMarketing": "0",
+        "distribution_tips": {
+          "name": "",
+          "code": 1
+        },
+        "off": false,
+        "isLimited": 0,
+        "isSensitive": 0,
+        "preSale": 0,
+        "sm_seq": "201503CM050000024",
+        "saleTypeName": "加入购物车",
+        "is_pop": "0"
+      },
+      {
+        "saleqty": 5,
+        "is_fresh_prod": 0,
+        "it_mprice": "0",
+        "is_mall": 0,
+        "sm_item_type": "1",
+        "sm_name": "TCL D42A710 42英寸 智能 全高清 LED液晶电视",
+        "sm_pic": "http://img.beta1.fn/C/item/2014/1202/201412C020000189/_401970620_400x400_q75.jpg",
+        "saleType": 0,
+        "is_global": 0,
+        "type_tags": [
+          {
+            "rlink": "http://member-fnapp.feiniugo.com/images/goods/icon_selfsupport2_2x.png",
+            "form": 2,
+            "name": "自营"
+          }
+        ],
+        "pic_tags": [],
+        "is_orgi_item": 1,
+        "shop_info": {},
+        "tags": [],
+        "global_tag": [],
+        "isReservation": 0,
+        "isPreOrd": 0,
+        "isShowSpecialMain": "0",
+        "sm_price": "2399",
+        "overseas": {},
+        "small_tags": [],
+        "isStoreMarketing": "0",
+        "distribution_tips": {
+          "name": "仅配送部分街道",
+          "code": 2
+        },
+        "off": false,
+        "isLimited": 0,
+        "isSensitive": 0,
+        "preSale": 0,
+        "sm_seq": "201412CM020000227",
+        "saleTypeName": "加入购物车",
+        "is_pop": "0"
+      }
+    ],
+    "picUrlBase": "",
+    "abtest": "62",
+    "filter": [
+      {
+        "form": 3,
+        "distribution": {
+          "area": {
+            "name": "闸北区",
+            "code": "310108"
+          },
+          "changeSet": "0",
+          "province": {
+            "name": "上海",
+            "code": "CS000016"
+          },
+          "town": {
+            "name": "共和新路街道",
+            "code": "3101080005"
+          },
+          "city": {
+            "name": "上海市",
+            "code": "310100"
+          }
+        }
+      },
+      {
+        "form": 4,
+        "hasChildNodes": 1,
+        "children": [
+          {
+            "name": "自营",
+            "subform": 6,
+            "key": "is_proprietary"
+          },
+          {
+            "name": "商家",
+            "subform": 6,
+            "key": "is_mall"
+          },
+          {
+            "name": "环球购",
+            "subform": 6,
+            "key": "is_global"
+          },
+          {
+            "name": "仅看有货",
+            "subform": 6,
+            "key": "is_stock"
+          }
+        ]
+      },
+      {
+        "form": 2,
+        "hasChildNodes": 1,
+        "children": [
+          {
+            "min": "0.00",
+            "max": "0.00",
+            "name": "价格区间:",
+            "subform": 2
+          },
+          {
+            "child": [
+              {
+                "cp_name": "全部分类",
+                "cp_seq": ""
+              },
+              {
+                "cp_name": "电视",
+                "children": [
+                  {
+                    "cp_name": "LCD电视",
+                    "cp_seq": "CC200810"
+                  },
+                  {
+                    "cp_name": "等离子电视",
+                    "cp_seq": "CC200821"
+                  },
+                  {
+                    "cp_name": "LED电视",
+                    "cp_seq": "CC200806"
+                  }
+                ],
+                "cp_seq": "CG100407"
+              },
+              {
+                "cp_name": "影音器材111",
+                "children": [
+                  {
+                    "cp_name": "高清播放器",
+                    "cp_seq": "CC201016"
+                  },
+                  {
+                    "cp_name": "DVD播放机",
+                    "cp_seq": "CC201003"
+                  }
+                ],
+                "cp_seq": "CG100412"
+              },
+              {
+                "cp_name": "大家电配件",
+                "children": [
+                  {
+                    "cp_name": "电视配件",
+                    "cp_seq": "CC201042"
+                  }
+                ],
+                "cp_seq": "CG100414"
+              },
+              {
+                "cp_name": "电脑外设",
+                "children": [
+                  {
+                    "cp_name": "线材",
+                    "cp_seq": "CC201046"
+                  },
+                  {
+                    "cp_name": "耳机、耳麦",
+                    "cp_seq": "CC201073"
+                  },
+                  {
+                    "cp_name": "游戏设备",
+                    "cp_seq": "CC201823"
+                  }
+                ],
+                "cp_seq": "CG100573"
+              },
+              {
+                "cp_name": "五金电料",
+                "children": [
+                  {
+                    "cp_name": "墙面开关",
+                    "cp_seq": "CC200349"
+                  }
+                ],
+                "cp_seq": "CG100180"
+              },
+              {
+                "cp_name": "存储、网络",
+                "children": [
+                  {
+                    "cp_name": "路由器",
+                    "cp_seq": "CC201113"
+                  }
+                ],
+                "cp_seq": "CG100571"
+              },
+              {
+                "cp_name": "数码影音",
+                "children": [
+                  {
+                    "cp_name": "耳机",
+                    "cp_seq": "CC201750"
+                  },
+                  {
+                    "cp_name": "收录音机",
+                    "cp_seq": "CC201442"
+                  }
+                ],
+                "cp_seq": "CG100406"
+              },
+              {
+                "cp_name": "电视（沪）",
+                "children": [
+                  {
+                    "cp_name": "LED液晶电视（沪）",
+                    "cp_seq": "CC202321"
+                  }
+                ],
+                "cp_seq": "CG100768"
+              },
+              {
+                "cp_name": "家居清洁",
+                "children": [
+                  {
+                    "cp_name": "电器清洁护理",
+                    "cp_seq": "CC200243"
+                  }
+                ],
+                "cp_seq": "CG100734"
+              },
+              {
+                "cp_name": "摄影摄像",
+                "children": [
+                  {
+                    "cp_name": "摄像机",
+                    "cp_seq": "CC201291"
+                  }
+                ],
+                "cp_seq": "CG100449"
+              },
+              {
+                "cp_name": "清洁用具",
+                "children": [
+                  {
+                    "cp_name": "抹布",
+                    "cp_seq": "CC200286"
+                  }
+                ],
+                "cp_seq": "CG100163"
+              },
+              {
+                "cp_name": "浴室用品",
+                "children": [
+                  {
+                    "cp_name": "沐浴用品/按摩用具",
+                    "cp_seq": "CC200305"
+                  }
+                ],
+                "cp_seq": "CG100164"
+              },
+              {
+                "cp_name": "收纳用品",
+                "children": [
+                  {
+                    "cp_name": "收纳箱",
+                    "cp_seq": "CC200345"
+                  }
+                ],
+                "cp_seq": "CG100167"
+              },
+              {
+                "cp_name": "电子教育",
+                "children": [
+                  {
+                    "cp_name": "早教机",
+                    "cp_seq": "CC200761"
+                  }
+                ],
+                "cp_seq": "CG100725"
+              },
+              {
+                "cp_name": "摄像配件",
+                "children": [
+                  {
+                    "cp_name": "存储卡",
+                    "cp_seq": "CC201303"
+                  }
+                ],
+                "cp_seq": "CG100450"
+              },
+              {
+                "cp_name": "手机配件",
+                "children": [
+                  {
+                    "cp_name": "其它手机配件",
+                    "cp_seq": "CC201392"
+                  }
+                ],
+                "cp_seq": "CG100399"
+              },
+              {
+                "cp_name": "雨鞋",
+                "children": [
+                  {
+                    "cp_name": "男雨鞋/雨靴",
+                    "cp_seq": "CC202039"
+                  }
+                ],
+                "cp_seq": "CG100685"
+              }
+            ],
+            "name": "分类",
+            "subform": 3
+          },
+          {
+            "child": [
+              {
+                "is_high_light": "0",
+                "av_seq": "600002_403094",
+                "av_name": "长虹（CHANGHONG）"
+              },
+              {
+                "is_high_light": "0",
+                "av_seq": "600002_402708",
+                "av_name": "欧莱雅(L’OREAL)"
+              },
+              {
+                "is_high_light": "0",
+                "av_seq": "600002_401067",
+                "av_name": "飞利浦(PHILIPS)"
+              },
+              {
+                "is_high_light": "0",
+                "av_seq": "600002_403089",
+                "av_name": "创维(Skyworth)"
+              },
+              {
+                "is_high_light": "0",
+                "av_seq": "600002_401076",
+                "av_name": "海尔(Haier)"
+              },
+              {
+                "is_high_light": "0",
+                "av_seq": "600002_425428",
+                "av_name": "酷开(coocaa)"
+              },
+              {
+                "is_high_light": "0",
+                "av_seq": "600002_401338",
+                "av_name": "三星(Samsung)"
+              },
+              {
+                "is_high_light": "0",
+                "av_seq": "600002_401130",
+                "av_name": "海信(Hisense)"
+              },
+              {
+                "is_high_light": "0",
+                "av_seq": "600002_401133",
+                "av_name": "TCL"
+              },
+              {
+                "is_high_light": "0",
+                "av_seq": "600002_403087",
+                "av_name": "康佳(KONKA)"
+              },
+              {
+                "is_high_light": "0",
+                "av_seq": "600002_401946",
+                "av_name": "格力(GREE)"
+              },
+              {
+                "is_high_light": "0",
+                "av_seq": "600002_401286",
+                "av_name": "苹果(Apple)"
+              },
+              {
+                "is_high_light": "0",
+                "av_seq": "600002_401386",
+                "av_name": "东芝(TOSHIBA)"
+              },
+              {
+                "is_high_light": "0",
+                "av_seq": "600002_401389",
+                "av_name": "索尼(SONY)"
+              },
+              {
+                "is_high_light": "0",
+                "av_seq": "600002_402857",
+                "av_name": "夏普(SHARP)"
+              },
+              {
+                "is_high_light": "0",
+                "av_seq": "600002_400930",
+                "av_name": "LG"
+              },
+              {
+                "is_high_light": "0",
+                "av_seq": "600002_403099",
+                "av_name": "冠捷(AOC)"
+              },
+              {
+                "is_high_light": "0",
+                "av_seq": "600002_400927",
+                "av_name": "惠科(HKC)"
+              },
+              {
+                "is_high_light": "0",
+                "av_seq": "600002_402912",
+                "av_name": "星星(XingXing）"
+              }
+            ],
+            "subform": 5,
+            "at_name": "前台品牌",
+            "is_quick": 1,
+            "at_seq": "600002"
+          },
+          {
+            "child": [
+              {
+                "is_high_light": 0,
+                "av_seq": "601794_419059",
+                "av_name": "智能电视"
+              },
+              {
+                "is_high_light": 0,
+                "av_seq": "601794_419057",
+                "av_name": "普通电视"
+              },
+              {
+                "is_high_light": 0,
+                "av_seq": "601794_419058",
+                "av_name": "网络电视"
+              }
+            ],
+            "subform": 1,
+            "at_name": "电视机功能",
+            "is_quick": 1,
+            "at_seq": "601794"
+          },
+          {
+            "child": [
+              {
+                "is_high_light": 0,
+                "av_seq": "600650_409156",
+                "av_name": "不支持3D"
+              },
+              {
+                "is_high_light": 0,
+                "av_seq": "600650_409155",
+                "av_name": "409155"
+              }
+            ],
+            "subform": 1,
+            "at_name": "3D功能",
+            "is_quick": 1,
+            "at_seq": "600650"
+          },
+          {
+            "child": [
+              {
+                "is_high_light": 0,
+                "av_seq": "600629_408482",
+                "av_name": "1200dpi"
+              },
+              {
+                "is_high_light": 0,
+                "av_seq": "600629_408489",
+                "av_name": "XGA（1024*768）"
+              },
+              {
+                "is_high_light": 0,
+                "av_seq": "600629_408479",
+                "av_name": "高清（1366*768）"
+              },
+              {
+                "is_high_light": 0,
+                "av_seq": "600629_408478",
+                "av_name": "全高清（1920*1080）"
+              },
+              {
+                "is_high_light": 0,
+                "av_seq": "600629_408477",
+                "av_name": "超高清4K（3840*2160）"
+              },
+              {
+                "is_high_light": 0,
+                "av_seq": "600629_408492",
+                "av_name": "1080P（1920*1080）"
+              }
+            ],
+            "subform": 1,
+            "at_name": "分辨率",
+            "is_quick": 1,
+            "at_seq": "600629"
+          },
+          {
+            "child": [
+              {
+                "is_high_light": 0,
+                "av_seq": "600151_400675",
+                "av_name": "46-49英寸"
+              },
+              {
+                "is_high_light": 0,
+                "av_seq": "600151_400671",
+                "av_name": "32英寸以下"
+              }
+            ],
+            "subform": 1,
+            "at_name": "电视尺寸",
+            "is_quick": 0,
+            "at_seq": "600151"
+          }
+        ]
+      }
+    ]
+  }
+}
